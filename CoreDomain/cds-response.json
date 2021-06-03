@@ -1,0 +1,78 @@
+[
+	{
+		"data": {
+			"id": "51d2c0be-5816-49c2-9647-22cf04252bd4",
+			"version": 1,
+			"name": "Adecoagro SA UK"
+		},
+		"kids": [
+			{
+				"data": {
+					"id": "5e01ea14-37db-4f7b-90e9-683dff43d2b9",
+					"version": 1,
+					"name": "HWPA Ultimate Plan"
+				},
+				"kids": [
+					{
+						"data": {
+							"id": "32797702-c007-4990-8a40-f315fb152846",
+							"version": 1,
+							"firstName": "Isaac",
+							"lastName": "Vuković",
+							"dateOfBirth": "1954-01-14"
+						},
+						"kids": [
+							{
+								"data": {
+									"id": null,
+									"version": 1,
+									"percentage": 17,
+									"amount": 707465,
+									"instrument": "French OAT"
+								}
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"data": {
+			"id": "51d2c0be-5816-49c2-9647-22cf04252bd4",
+			"version": 1,
+			"name": "Adecoagro SA UK"
+		},
+		"kids": [
+			{
+				"data": {
+					"id": "5e01ea14-37db-4f7b-90e9-683dff43d2b9",
+					"version": 1,
+					"name": "HWPA Ultimate Plan"
+				},
+				"kids": [
+					{
+						"data": {
+							"id": "32797702-c007-4990-8a40-f315fb152846",
+							"version": 1,
+							"firstName": "Isaac",
+							"lastName": "Vuković",
+							"dateOfBirth": "1954-01-14"
+						},
+						"kids": [
+							{
+								"data": {
+									"id": null,
+									"version": 1,
+									"percentage": 17,
+									"amount": 707465,
+									"instrument": "French OAT"
+								}
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+]
