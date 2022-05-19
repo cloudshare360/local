@@ -1091,3 +1091,12 @@ describe("Unit Tests for the Bulk Modify Scores submit request Service", functio
 
   });
 })
+
+
+
+
+AWSMock.setSDKInstance(AWS);
+      AWSMock.mock('SQS', 'sendMessage', (params, callback) => {
+        console.log(`In SQS sendMessage mock`);
+        callback(undefined, { MessageId: 'xxxx' });
+      });
